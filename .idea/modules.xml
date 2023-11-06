@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../.idea/Pose3d.iml" filepath="$PROJECT_DIR$/../.idea/Pose3d.iml" />
+      <module fileurl="file://G:/내 드라이브/Project/SwingScoring/.idea/SwingScoring.iml" filepath="G:/내 드라이브/Project/SwingScoring/.idea/SwingScoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/fastddtw.iml" filepath="$PROJECT_DIR$/.idea/fastddtw.iml" />
+    </modules>
+  </component>
+</project>
